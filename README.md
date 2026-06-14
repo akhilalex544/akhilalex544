@@ -2,7 +2,7 @@
 
 I'm Akhil a passionate Full-Stack Web Developer from India. With a strong foundation in HTML, CSS, JavaScript, Node.js, Express.js, MySQL, and Java, I enjoy building responsive web applications and solving real-world problems through code. My goal is to continuously improve my development skills, create impactful projects, and contribute to the tech community.
 
-<a href="www.linkedin.com/in/akhil-alex-77845b35a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akhil-alex-77845b35a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
